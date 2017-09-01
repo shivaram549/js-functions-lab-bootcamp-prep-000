@@ -9,7 +9,7 @@ function happyHolidaysTo(String)
   return "Happy holidays, ${name}!"
 }
 function happyHolidayTo(String holiday,String name)
-{
+{holiday=sunday;name=you;
   return "Happy ${holiday}, ${name}!"
 }
 function holidayCountdown(int,String)
