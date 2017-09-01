@@ -8,7 +8,7 @@ function happyHolidaysTo(String)
   //var name = "shiva"
   return "Happy holidays, ${name}!"
 }
-function happyHolidayTo(String,String)
+function happyHolidayTo(String holiday,String name)
 {
   return "Happy ${holiday}, ${name}!"
 }
